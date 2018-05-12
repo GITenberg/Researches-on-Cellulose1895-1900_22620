@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25450
 description: v. 1. 1895-1900 -- v. 2. 1900-1905 -- v. 3. 1905-1910 -- v. 4. 1910-1921
   / Charles F. Cross and Charles Dorée.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22620#Researches-on-Cellulose1895-1900
 gutenberg_bookshelf: Chemistry
 gutenberg_issued: '2007-09-16'
 gutenberg_type: Text
